@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome"
+date:   2016-12-01 01:57:53 +0000
+categories: jekyll update
+---
+Welcome to our website. This will be used to showcase our **COMP204P** project. The project is called ***ATOS Gamification***.
+File all bugs/feature requests at the [GitHub Repositry][jekyll-gh]. If you have questions, you can email them to *arjun.khurana.15@ucl.ac.uk*.
+
+[jekyll-gh]:   https://github.com/justinrol/ATOS-gamification
